@@ -1,2 +1,3 @@
-# dio-desafio-github-1o-rep
-Repositório criado para o desafio de projeto sobre Git/Github do DIO.
+# Desafio de Projeto sobre Git/Github
+
+Primeiro desafio de projeto do curso [Potência Tech iFood - Desenvolvimento de Jogos](https://web.dio.me/track/b19b1586-8a94-4eb7-95af-15d785b6e96e)
